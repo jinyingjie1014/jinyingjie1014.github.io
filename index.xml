@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>金莹婕使用hugo建立的站点</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 金莹婕使用hugo建立的站点</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 05 Jan 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>https://example.com/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>该网站名为“金莹婕使用Hugo建立的站点”，是苏州大学档案学专业学生金莹婕的个人网站，主要用于记录金莹婕的学习工作和日常生活。
+学习经历 2008.9-2014.7：苏州市吴江区盛泽小学升明小区； 2014.9-2017.7：苏州市吴江区盛泽第一中学； 2017.9-2020.7：江苏省震泽中学； 2020.9至今：苏州大学社会学院档案学专业
+人生座右铭 生命本身是一个过程，成功与失败只是人生过程中一些小小的片段，若果把生命与成功或失败联系在一起，生命将失去本身该有的意义。</description>
+    </item>
+    
+    <item>
+      <title>金莹婕三好学生评选事迹材料</title>
+      <link>https://example.com/post/%E9%87%91%E8%8E%B9%E5%A9%95%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E8%AF%84%E9%80%89%E4%BA%8B%E8%BF%B9%E6%9D%90%E6%96%99/</link>
+      <pubDate>Thu, 05 Jan 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/%E9%87%91%E8%8E%B9%E5%A9%95%E4%B8%89%E5%A5%BD%E5%AD%A6%E7%94%9F%E8%AF%84%E9%80%89%E4%BA%8B%E8%BF%B9%E6%9D%90%E6%96%99/</guid>
+      <description>在学习方面，我的学习成绩优异，学习态度认真，专业知识扎实，2021-2022学年，我的平均学分绩点是3.84在班级/专业中位列第5。目前我已均通过全国大学生英语等级考试四级、六级。上一学年我在班级中担任班长的职位，不仅帮助、促进了各位同学与老师之间的沟通交流，塑造了良好的班级学习氛围，而且也让我以高标准要求自己，虚心请教各位老师，并与各位班级同学互相学习、互相督促，让自己变得更加努力、更加优秀。我认为学习必须放在第一位，是一名学生必须做好的一部分。我积极完成课程作业，努力钻研专业知识，认真对待每一堂课、每一项任务，在学习的过程中收获了许多，也获得了许多进步。在将来，我会以更高的标准要求自己，希望自己在未来的学习道路上不断前行，不断进步。
+在实践创新方面，我积极参与科研活动，参与了学士杯、大学生创新创业竞赛等比赛。在社会学院第十八届学士杯中，我主持的项目“基于社群记忆导向的档案数据化路径探析——以粉丝社群档案数据库建设为例”被评为“优秀”等级。今后我会在竞赛、论文等方面不断努力，争取持续进步，取得更多科研成果。
+在政治方面，我积极拥护党的路线、方针、政策，具有正确、坚定的政治方向，树立社会主义核心价值观，我热爱祖国，热爱共产党，我参与了班级党员推优活动，成为了一名入党积极分子，正在努力学习共产党知识，希望在不久的将来，我可以成为伟大的中国共产党的一员。我遵守宪法、法律、法规，是一名合格的公民；我热爱学校，牢记校训“养天地正气，法古今完人”，遵守学校各项规章制度，不曾违规违纪。
+在文体活动方面，我关心集体，团结同学，积极参与了许多文体活动、集体活动。同时，我坚持体育锻炼，上一学年的体育课成绩均达到B级。
+在社会工作方面，我勇于探索，乐于奉献，热心社会工作，积极投身于社会实践及各项公益活动，参与了多个校内外志愿服务活动，为社会贡献了一份自己的力量。在上个学年里，我参加了“阳澄湖捡拾垃圾”公益志愿服务活动，也在暑期参加了家乡的公益体育活动，除此之外我也参加了众多校内志愿服务活动，例如担任课堂的学风督察员，主动帮助老师完成签到任务。我积极为校内同学服务，为学校、学院也献出了自己的一份力。在2021-2022学年，我的志愿服务时长总计已经达到138小时。
+在德育人品方面，我作风正派，举止文明，具有良好的行为习惯和道德品质，德育测评成绩等级为A。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/subheader/</guid>
+      <description>这是一个名为“金莹婕使用Hugo建立的站点”的网站，是苏州大学档案学专业学生金莹婕建立的个人网站，主要用于记录金莹婕的学习工作和日常生活。</description>
+    </item>
+    
+    <item>
+      <title>《Ditto》NewJeans</title>
+      <link>https://example.com/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/services/service2/</guid>
+      <description>&lt;p&gt;一首让人回忆起高中时代、自带氛围感的韩语歌《Ditto》的MUSIC VIDEO（MV）。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《Dizzy》LIVVIA</title>
+      <link>https://example.com/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/services/service1/</guid>
+      <description>&lt;p&gt;一首轻松愉快的英文流行乐。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download HUGO template</title>
+      <link>https://example.com/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+  </channel>
+</rss>

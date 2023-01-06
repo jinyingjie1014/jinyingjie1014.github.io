@@ -1,0 +1,99 @@
+[
+    {
+        "id": 0,
+        "name": "科技档案管理",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "吴品才",
+                "url": "#"
+            },
+            {
+                "name": "周一5-7",
+                "url": "#"
+            }
+            
+        ]
+    },
+    {
+        "id": 1,
+        "name": "网络信息检索实务",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "高俊宽",
+                "url": "#"
+            },
+            {
+                "name": "周二5-6",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "档案学系列实验",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "周二7-8",
+                "url": "#"
+            },
+            {
+                "name": "蒋晨曦",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "中国档案事业史",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "周三3-4",
+                "url": "#"
+            },
+            {
+                "name": "蒋卫荣",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "多媒体技术",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "周四5-6",
+                "url": "#"
+            },
+            {
+                "name": "陈必坤",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "档案文化学",
+        "image": "images/logo.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "周四7-8",
+                "url": "#"
+            },
+            {
+                "name": "谢诗艺",
+                "url": "#"
+            }
+        ]
+    }
+]
